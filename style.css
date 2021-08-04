@@ -1,0 +1,60 @@
+#person {
+    background-color: orange;
+    height: 500px;
+    width: 450px;
+    border-color: yellow;
+    border-radius: 40px;
+    border-width: 50px;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+
+}
+
+#rani {
+    margin-left: 50px;
+}
+
+#days {
+    height: 500px;
+    width: 450px;
+    background-color: skyblue;
+    border-radius: 40px;
+    margin-left: 1000px;
+}
+
+#15 {
+    margin-bottom: 20px;
+}
+
+#26 {
+    margin-top: 20px;
+}
+
+html {
+    background-color: silver;
+}
+
+#independence day {
+    background-color:green;
+    height: 500px;
+    width: 450px;
+    border-color: yellow;
+    border-radius: 40px;
+    border-width: 50px;
+    margin-right: 1100px;
+
+}
+iframe{
+    margin-right: 1100px;
+    
+}
+#ad{
+    margin-right: 1100px;
+}
+#adcuber{
+    margin-left:550px;
+}
